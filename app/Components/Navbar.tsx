@@ -26,7 +26,7 @@ function Navbar() {
               router.push("https//github.com");
             }}
           >
-            {github} Back
+            {github} Source Code
           </Button>
         </div>
       </div>
